@@ -1,0 +1,35 @@
+body {
+	background: #ddd;
+}
+.cover {
+	background: #fff;
+	width: 100%;
+	max-width: 1200px;
+	padding: 0 15px;
+	margin: 40px auto;
+}
+*{
+	margin:0;
+	box-sizing:border-box;
+	padding:0;
+	
+}
+ul{
+	list-style-type:none;
+}
+.cover footer p{
+	text-align:center;
+	color:#fff;
+	background:#6c757d;
+	padding:15px 20px;
+}
+ ul li a{
+	text-decoration:none;
+	color:#6c757d;
+}
+ul li a:hover{
+	text-decoration:none;
+}
+.ul2a li{
+	display:inline-block;
+}
